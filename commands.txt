@@ -1,0 +1,13 @@
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin master
+git remote add origin master (url)
+
+		to upload the whole file
+git init
+git add .
+git commit -m ""
+git status
+git add origin url
+git push -f origin master
